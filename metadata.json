@@ -1,0 +1,9 @@
+{
+  "name": "Namaste Nepal",
+  "description": "An immersive travel and tourist assistance platform for exploring the wonders of Nepal, featuring AI trip planning, guide booking, and safety tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
